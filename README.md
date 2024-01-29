@@ -1,1 +1,1 @@
-# MFC_first_application
+# Tasks from CodeWars
